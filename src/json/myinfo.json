@@ -49,6 +49,24 @@
             "image": "https://yonelamangele.github.io/YMvueportifolio/src/imgs/Screenshot%202024-07-02%20124746.png"
         }
     ],
+    "softSkills": [
+        {
+            "skillTitle": "Communication",
+            "skillImage": "https://yonelamangele.github.io/Yonela-Mangele-Portfolio1/src/images/png-transparent-computer-icons-communication-symbol-marketing-business-communication-miscellaneous-company-text-removebg-preview.png"
+        },
+        {
+            "skillTitle": "Adaptibility",
+            "skillImage": "https://yonelamangele.github.io/Yonela-Mangele-Portfolio1/src/images/360_F_478513787_9Jhy3TQyk3OhtgD5jHCHhxrNasERft6Y-removebg-preview.png"
+        },
+        {
+            "skillTitle": "Time Management",
+            "skillImage": "https://yonelamangele.github.io/Yonela-Mangele-Portfolio1/src/images/images-removebg-preview.png"
+        },
+        {
+            "skillTitle": "Team Work",
+            "skillImage": "https://yonelamangele.github.io/Yonela-Mangele-Portfolio1/src/images/1134184-removebg-preview.png"
+        }
+    ],
     "resume": [
         {
             "description": "I am currently doing a 12-month coding course at Life Choices Coding Academy and learning various coding languages",
